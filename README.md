@@ -1,4 +1,4 @@
-<h1>Hi, I'm Aria! <br/><a href="https://github.com/ariapaz">CySec Professional</a>, <a href="https://www.linkedin.com/in/ariapatrozou/">Former Army Major</a>, <a href="https://www.youtube.com/c/cyberspikes">Tech + study Content Creator</a></h1>
+<h1>Hi, I'm Aria! <br/><a href="https://github.com/ariapaz">CySec Professional</a>, <a href="https://www.linkedin.com/in/ariapatrozou/">Former Army Major</a>, <a href="https://www.youtube.com/@cyberspikes">Tech + study Content Creator</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
