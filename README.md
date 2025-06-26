@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Setting up a SIEM in Azure</b>
-  - [Setting up a SIEM in Azure - Complete step by step lab]([https://cyberspikes.com/projects/setting-up-a-siem-in-azure/])
+  - [Setting up a SIEM in Azure - Complete step by step lab](https://cyberspikes.com/projects/setting-up-a-siem-in-azure)
 
 - <b>PowerShell</b>
 
@@ -17,10 +17,10 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="AriaPatrozou | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="AriaPatrozou | X" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/x.svg" />][X]
-[<img align="left" alt="AriaPatrozou | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="CyberspikesWebsite" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linktree.svg" />][website]
+[<img align="left" alt="Go | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/youtube.svg" />][youtube]
+[<img align="left" alt="X" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/x.svg" />][X]
+[<img align="left" alt="Go | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Go | Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linktree.svg" />][website]
 
 
 [website]: https://cyberspikes.com/
