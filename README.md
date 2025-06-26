@@ -1,4 +1,32 @@
-## Hi there 👋
+<h1>Hi, I'm Aria! <br/><a href="https://github.com/ariapaz">CySec Professional</a>, <a href="https://www.linkedin.com/in/ariapatrozou/">Former Army Major</a>, <a href="https://www.youtube.com/c/cyberspikes">Tech + study Content Creator</a></h1>
+
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+- <b>Setting up a SIEM in Azure</b>
+  - [Setting up a SIEM in Azure - Complete step by step lab]([https://cyberspikes.com/projects/setting-up-a-siem-in-azure/])
+
+- <b>PowerShell</b>
+
+- <b>Python</b>
+ 
+
+<h2>📺 Popular YouTube Videos</h2>
+
+- [[Setting up a SIEM in Azure - Complete step by step lab](https://www.youtube.com/watch?v=W_2SONPh2_4&t=39s)]
+
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="AriaPatrozou | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="AriaPatrozou | X" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/x.svg" />][X]
+[<img align="left" alt="AriaPatrozou | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="CyberspikesWebsite" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linktree.svg" />][website]
+
+
+[website]: https://cyberspikes.com/
+[youtube]: https://www.youtube.com/c/cyberspikes
+[linkedin]: https://linkedin.com/in/ariapatrozou
+[X]: https://x.com/cyberspikes_com
 
 <!--
 **ariapaz/ariapaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
