@@ -12,7 +12,7 @@
 
 <h2>📺 Popular YouTube Videos</h2>
 
-- [[Setting up a SIEM in Azure - Complete step by step lab](https://www.youtube.com/watch?v=W_2SONPh2_4&t=39s)]
+- [Setting up a SIEM in Azure - Complete step by step lab](https://www.youtube.com/watch?v=W_2SONPh2_4&t=39s)
 
 
 <h2> 🤳 Connect with me:</h2>
