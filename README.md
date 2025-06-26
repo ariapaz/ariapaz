@@ -8,7 +8,13 @@
 - <b>PowerShell</b>
 
 - <b>Python</b>
- 
+
+<h2>📜 Certifications</h2>
+
+  - [Cisco CCNA](https://drive.google.com/file/d/1W6It-Fe-rEo77mFA1oNrVbM0xaNQCJmc/view?usp=sharing)
+  - [ISO 27001 Lead Auditor](https://drive.google.com/file/d/15j1PPv7I3SzwRUtteXbZ0AmxrMUBCVTN/view?usp=sharing)
+  - [Certified in Cybersecurity by (ISC)²](https://drive.google.com/file/d/17qCENBtapfwxYSHge7DJ6cGZo_NoQmiW/view?usp=sharing)
+
 
 <h2>📺 Popular YouTube Videos</h2>
 
