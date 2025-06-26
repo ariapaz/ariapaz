@@ -30,7 +30,7 @@
 
 
 [website]: https://cyberspikes.com/
-[youtube]: https://www.youtube.com/c/cyberspikes
+[youtube]: https://www.youtube.com/@cyberspikes
 [linkedin]: https://linkedin.com/in/ariapatrozou
 [X]: https://x.com/cyberspikes_com
 
